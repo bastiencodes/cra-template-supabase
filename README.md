@@ -2,16 +2,16 @@
 
 This is a Supabase template for [Create React App](https://github.com/facebook/create-react-app).
 
-To use this template, add `--template cra-template-supabase` when creating a new app.
+To use this template, add `--template supabase` when creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app supabase-react --template cra-template-supabase
+npx create-react-app supabase-react --template supabase
 
 # or
 
-yarn create react-app supabase-react --template cra-template-supabase
+yarn create react-app supabase-react --template supabase
 ```
 
 For more information, please refer to:
