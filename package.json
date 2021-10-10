@@ -4,7 +4,8 @@
   "keywords": [
     "react",
     "create-react-app",
-    "template"
+    "template",
+    "supabase"
   ],
   "description": "The base Supabase template for Create React App.",
   "repository": {
